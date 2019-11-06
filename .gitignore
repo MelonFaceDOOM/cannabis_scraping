@@ -1,0 +1,6 @@
+gapikey
+gcsekey
+venv
+.ipynb_checkpoints
+*.ipynb
+*_scraped.txt
