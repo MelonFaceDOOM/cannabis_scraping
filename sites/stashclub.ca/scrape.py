@@ -7,6 +7,7 @@ chrome_options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(chrome_path,chrome_options=chrome_options)
 
 product_urls = []
+# manually loop through pages because their layout is weird and this is just easier
 for i in range(1,18):
     driver.get("https://stashclub.ca/shop/page/{}/".format(i))
     for product in driver.find_elements_by_xpath('//a[@class="woocommerce-loop-product__link"]'):

@@ -38,7 +38,7 @@ for url in mom_urls:
     mom_results.append([url, number_of_results])
 
 #save results to csv
-with open('mom_results.csv', mode='w') as f:
+with open('mom_google_results.csv', mode='w') as f:
     w = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, lineterminator = '\n')
     for result in mom_results:
         w.writerow(result)

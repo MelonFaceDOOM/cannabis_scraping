@@ -3,4 +3,5 @@ gcsekey
 venv
 .ipynb_checkpoints
 *.ipynb
-*_scraped.txt
+scraped.txt
+inventory.csv

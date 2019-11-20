@@ -1,0 +1,11 @@
+All urls from:
+Established MOMs
+new MOMs
+new MOMs (no security)
+new MOMs (unconfirmed)
+
+Excluded:
+no url
+instagram
+pastebin
+only email address
