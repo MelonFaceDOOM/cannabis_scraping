@@ -1,7 +1,6 @@
-import json
 from lxml import html
-import csv 
 import re
+
 
 def get_price_block(tree):
     # price info will be in a ul within the description, but there can be multiple uls in varying orders
@@ -24,6 +23,7 @@ def get_price_block(tree):
     price_block = price_title.getnext()
     return price_block
 
+    
 def get_raw_prices(price_block):
     prices = price_block.xpath('./li/span') or price_block.xpath('./li') 
     prices = [p.text.split("=")[0] for p in prices if p.text]
@@ -47,20 +47,15 @@ def clean_price(raw):
     
     return quantity.group(1) + quantity.group(2), price.group(1)
 
-with open(r'ganjagrams_scraped.txt', 'r') as f:
-    page_data = json.load(f)
-
-products = []
-for page in page_data:
+    
+def parse(html_raw):
     product = {}
-    page_text = page[1]
-    tree = html.fromstring(page[1])
-    product['url'] = page[0]
+    tree = html.fromstring(html_raw)
     product['name'] = tree.xpath('//h1')[0].text.strip()
     
     categories = tree.xpath('//span[@class="posted_in"]/a')
     categories = [c.text for c in categories]
-    product['categories'] = ", ".join(categories)
+    product['categories'] = categories
     
     price_values = tree.xpath('//p[@class="price"]/span[@class="woocommerce-Price-amount amount"]/span') or \
             tree.xpath('//p[@class="price"]/ins/span[@class="woocommerce-Price-amount amount"]/span')
@@ -73,19 +68,4 @@ for page in page_data:
     else:
         product['prices'] = [("", price_values[0].tail)]
     
-    products.append(product)
-    
-products_flattened = [["url", "name", "categories", "grams", "price"]]
-for product in products:
-    prices = product['prices']
-    if prices:
-        for price in prices:
-            products_flattened.append([product['url'], product['name'], product['categories'], 
-                                       price[0], price[1]])
-    else:
-        products_flattened.append([product['url'], product['name'], product['categories'], 
-                                       ""])
-                                   
-with open("ganjagrams_inventory.csv", "w") as f:
-    writer = csv.writer(f, lineterminator = '\n')
-    writer.writerows(products_flattened)
+    return product

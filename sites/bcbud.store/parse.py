@@ -1,10 +1,6 @@
-import json
 from lxml import html
-import csv 
-
-with open(r'bcbud_scraped.txt', 'r') as f:
-    page_data = json.load(f)
-    
+ 
+ 
 def extract_gram_price(form, gram_text):    
     start_pos = form.find(gram_text)
     if start_pos == -1:
@@ -13,13 +9,11 @@ def extract_gram_price(form, gram_text):
     p2 = p1[p1.find("display_price&quot;:")+len("display_price&quot;:"):]
     return float(p2[:p2.find(",")])
 
-products=[]
-for page in page_data:
-    product = {}
     
-    page_text = page[1]
-    tree = html.fromstring(page[1])
-    product['url'] = page[0]
+def parse(html_raw):
+    product = {}
+    page_text = html_raw
+    tree = html.fromstring(html_raw)
     product['name'] = tree.xpath('//h1')[0].text.strip()
     
     categories = []
@@ -46,19 +40,6 @@ for page in page_data:
             prices.append(("", "{} - {}".format(price_values[0].xpath('./span')[0].tail,
                                                price_values[1].xpath('./span')[0].tail)))
     product['prices'] = prices
-    products.append(product)
     
-products_flattened = [["url", "name", "categories", "grams", "price"]]
-for product in products:
-    prices = product['prices']
-    if prices:
-        for price in prices:
-            products_flattened.append([product['url'], product['name'], ", ".join(product['categories']), 
-                                       price[0], price[1]])
-    else:
-        products_flattened.append([product['url'], product['name'], product['category'], 
-                                       ""])
-
-with open("bcbud_inventory.csv", "w") as f:
-    writer = csv.writer(f, lineterminator = '\n')
-    writer.writerows(products_flattened)
+    return product
+ 

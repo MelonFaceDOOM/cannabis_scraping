@@ -1,18 +1,11 @@
-import json
 from lxml import html
-import csv 
 
-with open(r'cheebas_scraped.txt', 'r') as f:
-    page_data = json.load(f)
-    
-products = []
-for page in page_data:
+
+def parse(html_raw):
     product = {}
-    page_text = page[1]
-    tree = html.fromstring(page[1])
-    product['url'] = page[0]
+    tree = html.fromstring(html_raw)
     product['name'] = tree.xpath('//h1')[0].text.strip()
-    product['category'] = tree.xpath('//h4[contains(@class, "title")]')[0].text
+    product['categories'] = [tree.xpath('//h4[contains(@class, "title")]')[0].text]
     
     prices = []
     price_table = tree.xpath('//table[@class="table table-bordered table-hover"]')
@@ -30,19 +23,4 @@ for page in page_data:
         prices.append(("", price))
         
     product['prices'] = prices
-    products.append(product)
-
-products_flattened = [["url", "name", "categories", "grams", "price"]]
-for product in products:
-    prices = product['prices']
-    if prices:
-        for price in prices:
-            products_flattened.append([product['url'], product['name'], product['category'], 
-                                       price[0], price[1]])
-    else:
-        products_flattened.append([product['url'], product['name'], product['category'], 
-                                       ""])
-                                   
-with open("cheebas_inventory.csv", "w") as f:
-    writer = csv.writer(f, lineterminator = '\n')
-    writer.writerows(products_flattened)
+    return product
