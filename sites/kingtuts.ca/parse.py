@@ -42,12 +42,13 @@ def parse(html_raw):
     product['name'] = tree.xpath('//h1[contains(@class,"product_title")]')[0].text.strip()
     product['categories'] = [tree.xpath('//span[@class="posted_in"]/a')[-1].text]
     
+    product['prices'] = []
+    
     # out of stock notice
     if tree.xpath('//h6[@class="subscribe_for_interest_text"]'):
-        product['prices'] = ["out of stock"]
+        product['prices'].append(("", "out of stock"))
         return product
         
-    product['prices'] = []
     multipart_form = find_multipart_form(page_text)
     if multipart_form:
         product['prices'] = extract_gram_prices(multipart_form)

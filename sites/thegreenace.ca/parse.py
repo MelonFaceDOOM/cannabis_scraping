@@ -1,38 +1,64 @@
-#TODO: extract category information
+from lxml import html
 
-import json
 
-with open('greenace_scraped.txt', 'r') as f:
-    page_data = json.load(f)
-    
-# this works for all but a couple pages. Looks like js interaction is needed on those pages, so the fastest
-# solution will just be to go over those ones manually
-def extract_price(tree):
-    extracted_price = []
-    1
-    sale_indicator = tree.xpath('//p[@class="price"]//del')
-    if sale_indicator:
-        sale_price = tree.xpath('//p[@class="price"]//ins//span/span')[0].tail
-        extracted_price.append(("",sale_price))
-        return extracted_price
+def extract_gram_prices(form):    
+    prices = []
+    while True:
+        # the weight/price values could be stored in several attribute names, so each has to be searched
+        attribute_texts = ['attribute_pa_weight']
+        for attribute_text in attribute_texts:
+            start_pos = form.find(attribute_text)
+            # break out of the attribute list search once the correct one has been identified
+            if start_pos > -1:
+                break
+        
+        # quit if no attribute values were found
+        if start_pos == -1:
+            break
+            
+        form = form[start_pos+len(f"{attribute_text}&quot;:&quot;"):]
+        quantity = form[:form.find("&")]
+        form = form[form.find("display_price&quot;:")+len("display_price&quot;:"):]
+        price = form[:form.find(",")]
+        prices.append((quantity, price))
+    return prices
 
-    prices = tree.xpath('//p[@class="price"]//span//span')
-    if len(prices) == 1:
-        extracted_price.append(("",prices[0].tail))
-        return extracted_price
     
-    price_table = tree.xpath('//div[@class="woocommerce-product-details__short-description"]')[0]
-    for row in price_table.xpath('.//tr'):
-        quantity = row.xpath('.//th')[0].text
-        price = row.xpath('.//td')[0].text
-        extracted_price.append((quantity,price))
-    return extracted_price
+def get_multipart_form(page_text):
+    start_pos = page_text.find('<form class="variations_form cart')
+    if start_pos == -1:
+        return None
+    end_pos = page_text.find(">", start_pos)
+    multipart_form = page_text[start_pos:end_pos+1]
+    return multipart_form
+
     
-for page in page_data:
-    url = page[0]
-    tree = html.fromstring(page[1])
-    name = tree.xpath('//h1[@class="product_title entry-title"]')[0].text
-    price = extract_price(tree)
-    # todo: store this data somewhere
-    # todo: find blanks and manually collect price data for these ones
+def parse(html_raw):
+    product = {}
+    tree = html.fromstring(html_raw)
+    product['name'] = tree.xpath('//h1[@class="product_title entry-title"]')[0].text.strip()
     
+    categories = tree.xpath('//span[@class="posted_in"]/a')
+    categories = [c.text for c in categories]
+    product['categories'] = categories
+    
+    product['prices'] = []
+    multipart_form = get_multipart_form(html_raw)
+    if multipart_form:
+        product['prices'] = extract_gram_prices(multipart_form)
+        
+    # either there was no form or gram values weren't found in the form
+    if not product['prices']:
+        price_values = tree.xpath('//p/span[@class="woocommerce-Price-amount amount"]/span') or \
+            tree.xpath('//p/ins/span[@class="woocommerce-Price-amount amount"]/span')
+        
+        if len(price_values) == 0:
+            product['prices'].append(("", None))
+        elif len(price_values) == 1:
+            price = price_values[0].tail
+            product['prices'].append(("", price))
+        elif len(price_values) == 2:
+            price = price_values[0].tail + " - " + price_values[1].tail
+            product['prices'].append(("",price))
+    
+    return product

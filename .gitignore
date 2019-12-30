@@ -4,4 +4,3 @@ venv
 .ipynb_checkpoints
 *.ipynb
 scraped.txt
-inventory.csv

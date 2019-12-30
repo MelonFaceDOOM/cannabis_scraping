@@ -33,19 +33,19 @@ def parse(html_raw):
     product = {}
     page_text = html_raw
     product['name'] = tree.xpath('//h1[@class="product_title entry-title"]')[0].text.strip()
+    product['prices'] = []
     
     if tree.xpath('//div[contains(@class, "wc-memberships-restricted-content-message")]'):
         product['categories'] = ["password protected"]
-        product['prices'] = ["password protected"]
+        product['prices'].append(("", "password protected"))
         return product
     
     product['categories'] = [tree.xpath('//span[@class="posted_in"]/a')[-1].text]
     
     if tree.xpath('//p[@class="stock out-of-stock"]'):
-        product['prices'] = ["out of stock"]
+        product['prices'].append(("", "out of stock"))
         return product
-    
-    product['prices'] = []
+        
     multipart_form = find_multipart_form(page_text)
     if multipart_form:
         product['prices'] = extract_gram_prices(multipart_form)

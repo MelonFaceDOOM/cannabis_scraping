@@ -17,7 +17,7 @@ page_data=[]
 for url in product_urls:
     driver.get(url)
     page = driver.page_source
-    page_data.append(page)
+    page_data.append([url, page])
 
 with open("stashclub_scraped.txt", "w") as f:
     json.dump(page_data, f)

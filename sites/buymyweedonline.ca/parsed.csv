@@ -1,13 +1,13 @@
 url,name,categories,quantity,price
-https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/ease-thc-1000mg-vape-liquid/,1000mg THC Vape Liquid – Ease,Concentrates,,80
+https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/juicy-jack-aaaa/,Juicy Jack (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/chocolate-kush-aaaaa/,Chocolate Kush (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/ease-thc-1000mg-vape-liquid/,1000mg THC Vape Liquid â€“ Ease,Concentrates,,80
 https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-peach/,500mg CBD Peach FLAVA BLAST- Keey,Oil,,63
 https://buymyweedonline.ca/product/prefilled-thc-distillate-saber-podsonly/,Prefilled THC Distillate Saber Pods(only),Oil,,50
 https://buymyweedonline.ca/product/grind-master/,Grind Master,Grinders,,25
@@ -15,397 +15,468 @@ https://buymyweedonline.ca/product/1-ounce-mix-and-match-aa/,1 Ounce Mix and Mat
 https://buymyweedonline.ca/product/1-ounce-mix-and-match-aaa/,1 Ounce Mix and Match (AAA),AAA,,205
 https://buymyweedonline.ca/product/1-ounce-mix-and-match-aaaa/,1 Ounce Mix and Match (AAAA),AAAA,,225
 https://buymyweedonline.ca/product/1-ounce-mix-and-match-aaaaa/,1 Ounce Mix and Match (AAAAA),AAAAA,,260
-https://buymyweedonline.ca/product/11-1000mg-cbdthc-tincture-keey/,1:1 1000mg CBD:THC Tincture – Keey,Oil,,80
-https://buymyweedonline.ca/product/1000mg-cbd-green-apple-flava-blast-keey/,1000mg CBD Green Apple FLAVA BLAST – Keey,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/1000mg-cbd-mango-flava-blast-keey/,1000mg CBD Mango FLAVA BLAST – Keey,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/1000mg-cbd-orange-flava-blast-keey/,1000mg CBD Orange FLAVA BLAST – Keey,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/1000mg-cbd-pineapple-flava-blast-keey/,1000mg CBD Pineapple FLAVA BLAST – Keey,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/1000mg-full-spectrum-cbd-flavablast-keey/,1000mg Full Spectrum CBD – FlavaBlast Keey,Oil,,120
-https://buymyweedonline.ca/product/1000mg-thc-flavoured-tincture-keey/,1000mg THC Flavoured Tincture – Keey,Oil,,85
+https://buymyweedonline.ca/product/11-1000mg-cbdthc-tincture-keey/,1:1 1000mg CBD:THC Tincture â€“ Keey,Oil,,80
+https://buymyweedonline.ca/product/1000mg-cbd-green-apple-flava-blast-keey/,1000mg CBD Green Apple FLAVA BLAST â€“ Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/1000mg-cbd-mango-flava-blast-keey/,1000mg CBD Mango FLAVA BLAST â€“ Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/1000mg-cbd-orange-flava-blast-keey/,1000mg CBD Orange FLAVA BLAST â€“ Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/1000mg-cbd-pineapple-flava-blast-keey/,1000mg CBD Pineapple FLAVA BLAST â€“ Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/1000mg-full-spectrum-cbd-flavablast-keey/,1000mg Full Spectrum CBD â€“ FlavaBlast Keey,Oil,,120
+https://buymyweedonline.ca/product/1000mg-thc-flavoured-tincture-keey/,1000mg THC Flavoured Tincture â€“ Keey,Oil,,85
 https://buymyweedonline.ca/product/thc-100mg-hemp-seed-oil-capsules-co2/,100mg THC Hemp Seed Oil Capsules,Oil,,35
 https://buymyweedonline.ca/product/ease-cbd-mist-spray-125mg-10ml/,125mg CBD Oral Spray 10ml,Edibles,,20
-https://buymyweedonline.ca/product/ease-thc-mist-spray-125mg-10ml/,125mg THC Oral Spray 10ml – Ease,Edibles,,20
-https://buymyweedonline.ca/product/1300c-jet-torch-lighter/,1300°c Jet Torch lighter,Lighters,,27
-https://buymyweedonline.ca/product/200mg-cannabis-infused-vegan-bath-salts-cedarwood/,200mg Cannabis Infused Vegan Bath Salts – Cedarwood,Personal Care,,27
-https://buymyweedonline.ca/product/200mg-cannabis-infused-vegan-bath-salts-minty-eucalyptus/,200mg Cannabis Infused Vegan Bath Salts – Minty Eucalyptus,Personal Care,,27
-https://buymyweedonline.ca/product/ease-cbd-200mg-vape-liquid/,200mg CBD Vape Liquid – Ease,Tinctures/Topicals,,45
+https://buymyweedonline.ca/product/ease-thc-mist-spray-125mg-10ml/,125mg THC Oral Spray 10ml â€“ Ease,Edibles,,20
+https://buymyweedonline.ca/product/1300c-jet-torch-lighter/,1300Â°c Jet Torch lighter,Lighters,,27
+https://buymyweedonline.ca/product/200mg-cannabis-infused-vegan-bath-salts-cedarwood/,200mg Cannabis Infused Vegan Bath Salts â€“ Cedarwood,Personal Care,,27
+https://buymyweedonline.ca/product/200mg-cannabis-infused-vegan-bath-salts-minty-eucalyptus/,200mg Cannabis Infused Vegan Bath Salts â€“ Minty Eucalyptus,Personal Care,,27
+https://buymyweedonline.ca/product/ease-cbd-200mg-vape-liquid/,200mg CBD Vape Liquid â€“ Ease,Tinctures/Topicals,,45
 https://buymyweedonline.ca/product/200mg-cannabis-infused-coconut-milk-bath-blend/,200mg THC Cannabis Infused Coconut Milk Bath Blend,Personal Care,,17
 https://buymyweedonline.ca/product/green-goddess-tropical-thccbd-tincture-11-ratio-30ml-2/,200mg THC/CBD Tincture 1:1 Ratio (30mL) ( 2 Flavour option) Green Goddess,Tinctures/Topicals,,60
-https://buymyweedonline.ca/product/200mgcbd-200mgthc-mango-tincture-keey/,200mgCBD : 200mgTHC Mango Tincture – Keey,Tinctures/Topicals,,60
-https://buymyweedonline.ca/product/200mgcbd-200mgthc-spearmint-tincture-keey/,200mgCBD : 200mgTHC Spearmint Tincture – Keey,Edibles,,60
+https://buymyweedonline.ca/product/200mgcbd-200mgthc-mango-tincture-keey/,200mgCBD : 200mgTHC Mango Tincture â€“ Keey,Tinctures/Topicals,,60
+https://buymyweedonline.ca/product/200mgcbd-200mgthc-spearmint-tincture-keey/,200mgCBD : 200mgTHC Spearmint Tincture â€“ Keey,Edibles,,60
 https://buymyweedonline.ca/product/ease-cbd-mist-spray-250mg-10ml/,250mg CBD Oral Spray 10ml,Oil,,37
-https://buymyweedonline.ca/product/250mg-thc-bones-gummy/,250mg THC – Bones Gummy,Edibles,,32
-https://buymyweedonline.ca/product/250mg-thc-cream-soda-gummy/,250mg THC – Cream Soda Gummy,Edibles,,32
-https://buymyweedonline.ca/product/250mg-thc-cupcakes-gummy/,250mg THC – Cupcakes Gummy,Edibles,,32
-https://buymyweedonline.ca/product/250mg-thc-peach-rings-gummy/,250mg THC – Peach Rings Gummy,Edibles,,32
-https://buymyweedonline.ca/product/250mg-thc-sour-bubble-gum-gummy/,250mg THC – Sour Bubble Gum Gummy,Edibles,,32
-https://buymyweedonline.ca/product/250mg-thc-swimming-fishes-gummy/,250mg THC – Swimming Fishes Gummy,Edibles,,32
-https://buymyweedonline.ca/product/ease-thc-mist-spray-250mg-10ml/,250mg THC Mist Spray 10ml – Ease,Oil,,37
+https://buymyweedonline.ca/product/250mg-thc-bones-gummy/,250mg THC â€“ Bones Gummy,Edibles,,32
+https://buymyweedonline.ca/product/250mg-thc-cream-soda-gummy/,250mg THC â€“ Cream Soda Gummy,Edibles,,32
+https://buymyweedonline.ca/product/250mg-thc-cupcakes-gummy/,250mg THC â€“ Cupcakes Gummy,Edibles,,32
+https://buymyweedonline.ca/product/250mg-thc-peach-rings-gummy/,250mg THC â€“ Peach Rings Gummy,Edibles,,32
+https://buymyweedonline.ca/product/250mg-thc-sour-bubble-gum-gummy/,250mg THC â€“ Sour Bubble Gum Gummy,Edibles,,32
+https://buymyweedonline.ca/product/250mg-thc-swimming-fishes-gummy/,250mg THC â€“ Swimming Fishes Gummy,Edibles,,32
+https://buymyweedonline.ca/product/ease-thc-mist-spray-250mg-10ml/,250mg THC Mist Spray 10ml â€“ Ease,Oil,,37
 https://buymyweedonline.ca/product/hemp-seed-oil-capsules-co2-thc-25-mg/,25mg THC Hemp Seed Oil Capsules (CO2),Oil,,15
-https://buymyweedonline.ca/product/300mg-cbd-lotion-external-use-only/,300mg CBD LOTION – External Use Only,CBD,,80
-https://buymyweedonline.ca/product/300mg-cbd-rapid-dissolve-gel-external-use-only/,300MG CBD Rapid Dissolve Gel – External Use Only,CBD,,80
-https://buymyweedonline.ca/product/full-spectrum-cbd-tincture-spearmint-keey/,30ml Full spectrum CBD 1000mg Tincture – Spearmint – Keey,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/41-1000mgcbd-250mgthc-tincture-keey/,4:1 – 1000mgCBD : 250mgTHC Tincture – Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/300mg-cbd-lotion-external-use-only/,300mg CBD LOTION â€“ External Use Only,CBD,,80
+https://buymyweedonline.ca/product/300mg-cbd-rapid-dissolve-gel-external-use-only/,300MG CBD Rapid Dissolve Gel â€“ External Use Only,CBD,,80
+https://buymyweedonline.ca/product/full-spectrum-cbd-tincture-spearmint-keey/,30ml Full spectrum CBD 1000mg Tincture â€“ Spearmint â€“ Keey,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/41-1000mgcbd-250mgthc-tincture-keey/,4:1 â€“ 1000mgCBD : 250mgTHC Tincture â€“ Keey,Tinctures/Topicals,,75
 https://buymyweedonline.ca/product/green-goddess-41-tincture-30ml-spearmint-flavour/,4:1 Tincture (30mL) Spearmint Flavour Green Goddess,Oil,,75
 https://buymyweedonline.ca/product/green-goddess-cbd-tincture-30ml-spearmint-flavour/,400mg CBD Tincture Spearmint Flavour- Green Goddess,Concentrates,,60
-https://buymyweedonline.ca/product/ease-cbd-400mg-vape-liquid/,400mg CBD Vape Liquid – Ease,Tinctures/Topicals,,75
-https://buymyweedonline.ca/product/green-goddess-thc-tincture-30ml-banana-cream-flavour/,400mg THC Tincture Banana Cream Flavour – Green Goddess,Oil,,60
-https://buymyweedonline.ca/product/green-goddess-thc-tincture-30ml-orange-flavour/,400mg THC Tincture Orange Flavour – Green Goddess,Oil,,60
-https://buymyweedonline.ca/product/400mgcbd-100mgthc-spearmint-tincture-keey/,400mgCBD : 100mgTHC Spearmint Tincture – Keey,Tinctures/Topicals,,60
+https://buymyweedonline.ca/product/ease-cbd-400mg-vape-liquid/,400mg CBD Vape Liquid â€“ Ease,Tinctures/Topicals,,75
+https://buymyweedonline.ca/product/green-goddess-thc-tincture-30ml-banana-cream-flavour/,400mg THC Tincture Banana Cream Flavour â€“ Green Goddess,Oil,,60
+https://buymyweedonline.ca/product/green-goddess-thc-tincture-30ml-orange-flavour/,400mg THC Tincture Orange Flavour â€“ Green Goddess,Oil,,60
+https://buymyweedonline.ca/product/400mgcbd-100mgthc-spearmint-tincture-keey/,400mgCBD : 100mgTHC Spearmint Tincture â€“ Keey,Tinctures/Topicals,,60
 https://buymyweedonline.ca/product/500mg-cbd-blackberry-keey-flava-blast/,500mg CBD Blackberry Keey FLAVA BLAST,Oil,,63
-https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-blueberry/,500mg CBD Blueberry FLAVA BLAST – Keey,Oil,,63
-https://buymyweedonline.ca/product/500mg-cbd-cherry-flava-blast-keey/,500mg CBD Cherry FLAVA BLAST – Keey,Tinctures/Topicals,,63
+https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-blueberry/,500mg CBD Blueberry FLAVA BLAST â€“ Keey,Oil,,63
+https://buymyweedonline.ca/product/500mg-cbd-cherry-flava-blast-keey/,500mg CBD Cherry FLAVA BLAST â€“ Keey,Tinctures/Topicals,,63
 https://buymyweedonline.ca/product/500mg-cbd-coconut-keey-flava-blast/,500mg CBD Coconut Keey FLAVA BLAST,Oil,,63
-https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-cotton-candy/,500mg CBD Cotton Candy FLAVA BLAST – Keey,Oil,,63
+https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-cotton-candy/,500mg CBD Cotton Candy FLAVA BLAST â€“ Keey,Oil,,63
 https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-green-apple/,500mg CBD Green Apple FLAVA BLAST- Keey,CBD,,63
-https://buymyweedonline.ca/product/500mg-cbd-guava-flava-blast-keey/,500mg CBD Guava FLAVA BLAST – Keey,Tinctures/Topicals,,63
-https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-mango/,500mg CBD Mango FLAVA BLAST – Keey,Oil,,63
-https://buymyweedonline.ca/product/500mg-cbd-orange-flava-blast-keey/,500mg CBD Orange FLAVA BLAST – Keey,Tinctures/Topicals,,63
+https://buymyweedonline.ca/product/500mg-cbd-guava-flava-blast-keey/,500mg CBD Guava FLAVA BLAST â€“ Keey,Tinctures/Topicals,,63
+https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-mango/,500mg CBD Mango FLAVA BLAST â€“ Keey,Oil,,63
+https://buymyweedonline.ca/product/500mg-cbd-orange-flava-blast-keey/,500mg CBD Orange FLAVA BLAST â€“ Keey,Tinctures/Topicals,,63
 https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-pear/,500mg CBD Pear FLAVA BLAST- Keey,Oil,,63
-https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-pineapple/,500mg CBD Pineapple FLAVA BLAST – Keey,Oil,,63
-https://buymyweedonline.ca/product/green-goddess-500mg-cbd-500mg-thc-tincture/,500mg CBD/ 500mg THC Tincture – Green Goddess,Concentrates,,80
+https://buymyweedonline.ca/product/keey-500mg-cbd-flava-blast-pineapple/,500mg CBD Pineapple FLAVA BLAST â€“ Keey,Oil,,63
+https://buymyweedonline.ca/product/green-goddess-500mg-cbd-500mg-thc-tincture/,500mg CBD/ 500mg THC Tincture â€“ Green Goddess,Concentrates,,80
 https://buymyweedonline.ca/product/50mg-thc-50mg-cbd-vegan-soap-bars/,50mg THC 50mg CBD Vegan Soap Bars,variation,,16
 https://buymyweedonline.ca/product/hemp-seed-oil-capsules-co2-thc-50-mg-2/,50mg THC Hemp Seed Oil Capsules,Oil,,20
-https://buymyweedonline.ca/product/50mgthc-bath-bomb-almond-cream-herbs-releaf/,50mgTHC Bath Bomb Almond Cream & Herbs – RELEAF,Personal Care,,15
-https://buymyweedonline.ca/product/50mgthc-bath-bomb-clementine-releaf/,50mgTHC Bath Bomb Clementine – RELEAF,Uncategorized,,15
+https://buymyweedonline.ca/product/50mgthc-bath-bomb-almond-cream-herbs-releaf/,50mgTHC Bath Bomb Almond Cream & Herbs â€“ RELEAF,Personal Care,,15
+https://buymyweedonline.ca/product/50mgthc-bath-bomb-clementine-releaf/,50mgTHC Bath Bomb Clementine â€“ RELEAF,Uncategorized,,15
 https://buymyweedonline.ca/product/releaf-honey-tangerine-50mgthc-bath-bomb/,50mgTHC Bath Bomb Honey Tangerine RELEAF,Personal Care,,15
 https://buymyweedonline.ca/product/releaf-sandalwood-50mgthc-bath-bomb/,50mgTHC Bath Bomb Sandalwood RELEAF,Personal Care,,15
-https://buymyweedonline.ca/product/80mg-cbd-jelly-bombs-twisted-extracts/,80mg CBD JELLY BOMBS – Twisted Extracts,Edibles,,13
+https://buymyweedonline.ca/product/80mg-cbd-jelly-bombs-twisted-extracts/,80mg CBD JELLY BOMBS â€“ Twisted Extracts,Edibles,,13
 https://buymyweedonline.ca/product/strike-gold-activated-thc-distillate/,Activated THC Distillate-Strike Gold,Oil,,55
 https://buymyweedonline.ca/product/airis-8-vaporizer/,Airis 8 Vaporizer,Vaping,,35
-https://buymyweedonline.ca/product/animal-cookies-htsfe-terp-sauce-sap/,Animal Cookies HTFSE (Terp Sauce) – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/apple-sativa-jelly-bombs-twisted-extract/,Apple SATIVA JELLY BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,1gm,$18
-https://buymyweedonline.ca/product/black-easy-grinder/,Black – Easy Grinder,Grinders,,65
-https://buymyweedonline.ca/product/black-cherry-indica-11-jelly-bombs-twisted-extracts/,Black Cherry INDICA 1:1 JELLY BOMBS – Twisted Extracts,Edibles,,13
-https://buymyweedonline.ca/product/black-cherry-indica-zzz-bombs-twisted-extract/,Black Cherry INDICA ZZZ BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder – Top Shelf,Budder/Wax,1gm,$35
-https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder – Top Shelf,Budder/Wax,7gm,$208
-https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder – Top Shelf,Budder/Wax,14gm,$377
-https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder – Top Shelf,Budder/Wax,28gm,$700
-https://buymyweedonline.ca/product/black-gas-htsfe-terp-sauce-sap/,Black Gas HTFSE (Terp Sauce) – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/black-raw-single-wide-rolling-papers/,Black Raw Single Wide Rolling Papers,Rolling papers,,2.25-10
+https://buymyweedonline.ca/product/animal-cookies-htsfe-terp-sauce-sap/,Animal Cookies HTFSE (Terp Sauce) â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/apple-sativa-jelly-bombs-twisted-extract/,Apple SATIVA JELLY BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,14,235
+https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,28,450
+https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,1,18
+https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,3-5,63
+https://buymyweedonline.ca/product/bc-hash-aaaa/,BC Hash (AAAA),Hash,7,120
+https://buymyweedonline.ca/product/black-easy-grinder/,Black â€“ Easy Grinder,Grinders,,65
+https://buymyweedonline.ca/product/black-cherry-indica-11-jelly-bombs-twisted-extracts/,Black Cherry INDICA 1:1 JELLY BOMBS â€“ Twisted Extracts,Edibles,,13
+https://buymyweedonline.ca/product/black-cherry-indica-zzz-bombs-twisted-extract/,Black Cherry INDICA ZZZ BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder â€“ Top Shelf,Budder/Wax,1,35
+https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder â€“ Top Shelf,Budder/Wax,7,208
+https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder â€“ Top Shelf,Budder/Wax,14,377
+https://buymyweedonline.ca/product/black-diamond-budder-top-shelf/,Black Diamond Budder â€“ Top Shelf,Budder/Wax,28,700
+https://buymyweedonline.ca/product/black-gas-htsfe-terp-sauce-sap/,Black Gas HTFSE (Terp Sauce) â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/black-raw-single-wide-rolling-papers/,Black Raw Single Wide Rolling Papers,Rolling papers,,2.25 - 10
 https://buymyweedonline.ca/product/black-widow/,Black Widow,Vaping,,99
-https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/sap-blue-fin-tuna-live-resin/,Blue Fin Tuna Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder – Top Shelf,Budder/Wax,1gm,$35
-https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder – Top Shelf,Budder/Wax,7gm,$208
-https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder – Top Shelf,Budder/Wax,14gm,$377
-https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder – Top Shelf,Budder/Wax,28gm,$700
-https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/the-one/,Bong – The One Bong – Green,Water Bongs,,47
-https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,1gm,$20
-https://buymyweedonline.ca/product/buddies-sifter-box/,BUDDIES SIFTER BOX,Tools + Attachments,,38-45
+https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/blackberry-kush-aaaaa/,Blackberry Kush (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/sap-blue-fin-tuna-live-resin/,Blue Fin Tuna Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder â€“ Top Shelf,Budder/Wax,1,35
+https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder â€“ Top Shelf,Budder/Wax,7,208
+https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder â€“ Top Shelf,Budder/Wax,14,377
+https://buymyweedonline.ca/product/blueberry-og-budder-top-shelf/,Blueberry OG Budder â€“ Top Shelf,Budder/Wax,28,700
+https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,7,54
+https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,14,108
+https://buymyweedonline.ca/product/blueberry-pie-aaa/,Blueberry Pie (AAA),AAA,28,205
+https://buymyweedonline.ca/product/the-one/,Bong â€“ The One Bong â€“ Green,Water Bongs,,47
+https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/bubba-kush-hash-aaaaa/,Bubba Kush Hash (AAAAA),Hash,28,475
+https://buymyweedonline.ca/product/buddies-sifter-box/,BUDDIES SIFTER BOX,Tools + Attachments,,38 - 45
 https://buymyweedonline.ca/product/cannabis-infused-tropical-spice-vegan-massage-oil/,Cannabis Infused Tropical Spice Vegan Massage Oil,Personal Care,,28
-https://buymyweedonline.ca/product/cara-melts-twisted-extract/,CARA-MELTS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/cbd-basic-kind-20mg-cbd-patches/,CBD 20mg Patches – CBD BASIC KIND,Tinctures/Topicals,,45
-https://buymyweedonline.ca/product/cbd-basic-kind-40mg-cbd-patches/,CBD 40mg Patches – CBD BASIC KIND,Tinctures/Topicals,,65
-https://buymyweedonline.ca/product/cbd-beef-tendersticks-cbdbits-medicated-dog-treats/,CBD Beef Tendersticks – CBDbits Medicated Dog Treats,CBD,,35-45
-https://buymyweedonline.ca/product/cbd-cara-melts-twisted-extract/,CBD CARA-MELTS – Twisted Extract,Edibles,,13
-https://buymyweedonline.ca/product/cbd-dried-sardines-cbdbits-medicated-cat-treats/,CBD Dried Sardines – CBDbits Medicated Cat Treats,Pet Health,,35-45
-https://buymyweedonline.ca/product/pure-ultimate-cbd-isolate/,CBD Isolate – Pure Ultimate CBD,Concentrates,,40
-https://buymyweedonline.ca/product/cbd-isolate-tincture-spearmint-keey/,CBD Isolate Tincture Spearmint – Keey,Tinctures/Topicals,,63-135
-https://buymyweedonline.ca/product/cbd-prime-pet-health-200mg-pet-healing-salve/,CBD Prime Pet Health – 200mg Pet Salve,CBD,,70
+https://buymyweedonline.ca/product/cara-melts-twisted-extract/,CARA-MELTS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/casey-jones-aaaaa/,Casey Jones (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/cbd-basic-kind-20mg-cbd-patches/,CBD 20mg Patches â€“ CBD BASIC KIND,Tinctures/Topicals,,45
+https://buymyweedonline.ca/product/cbd-basic-kind-40mg-cbd-patches/,CBD 40mg Patches â€“ CBD BASIC KIND,Tinctures/Topicals,,65
+https://buymyweedonline.ca/product/cbd-beef-tendersticks-cbdbits-medicated-dog-treats/,CBD Beef Tendersticks â€“ CBDbits Medicated Dog Treats,CBD,,35 - 45
+https://buymyweedonline.ca/product/cbd-cara-melts-twisted-extract/,CBD CARA-MELTS â€“ Twisted Extract,Edibles,,13
+https://buymyweedonline.ca/product/cbd-dried-sardines-cbdbits-medicated-cat-treats/,CBD Dried Sardines â€“ CBDbits Medicated Cat Treats,Pet Health,,35 - 45
+https://buymyweedonline.ca/product/pure-ultimate-cbd-isolate/,CBD Isolate â€“ Pure Ultimate CBD,Concentrates,,40
+https://buymyweedonline.ca/product/cbd-isolate-tincture-spearmint-keey/,CBD Isolate Tincture Spearmint â€“ Keey,Tinctures/Topicals,,63 - 135
+https://buymyweedonline.ca/product/cbd-prime-pet-health-200mg-pet-healing-salve/,CBD Prime Pet Health â€“ 200mg Pet Salve,CBD,,70
 https://buymyweedonline.ca/product/cbd-prime-pet-health-salmon-oil/,CBD Salmon Oil- Pet Health,Pet Health,,80
-https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotte’s Web (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotte’s Web (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotte’s Web (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotte’s Web (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,1gm,$20
-https://buymyweedonline.ca/product/cherry-sativa-jelly-bombs-twisted-extract/,Cherry SATIVA JELLY BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,1gm,$20
-https://buymyweedonline.ca/product/chocolate-og-aaaaa/,Chocolate OG (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/top-shelf-chocolope-kief/,Chocolope KIEF – Top Shelf,Sativa,,18
-https://buymyweedonline.ca/product/pure-reserve-citrus-haze-premium-rosin/,Citrus Haze Premium Rosin – Pure Reserve,Live Resin,
-https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,28gm,$185
-https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/cotton-candy-aaaa/,Cotton Candy (AAAA),AAAA,3.5gm,$33
+https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotteâ€™s Web (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotteâ€™s Web (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotteâ€™s Web (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/charlottes-web-aaaaa/,Charlotteâ€™s Web (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/chemdawg-aaaa/,Chemdawg (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/chemo-hash-aaaaa/,Chemo Hash (AAAAA),Hash,28,475
+https://buymyweedonline.ca/product/cherry-sativa-jelly-bombs-twisted-extract/,Cherry SATIVA JELLY BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,28,475
+https://buymyweedonline.ca/product/chocolate-kush-hash-aaaaa/,Chocolate Kush Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/chocolate-og-aaaaa/,Chocolate OG (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/chocolate-og-aaaaa/,Chocolate OG (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/chocolate-og-aaaaa/,Chocolate OG (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/chocolate-og-aaaaa/,Chocolate OG (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/top-shelf-chocolope-kief/,Chocolope KIEF â€“ Top Shelf,Sativa,,18
+https://buymyweedonline.ca/product/pure-reserve-citrus-haze-premium-rosin/,Citrus Haze Premium Rosin â€“ Pure Reserve,Live Resin,,79
+https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,3-5,24
+https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,7,47
+https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,14,94
+https://buymyweedonline.ca/product/comatose-og-aa/,Comatose OG (AA),AA,28,185
+https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,7,54
+https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,14,108
+https://buymyweedonline.ca/product/congo-aaa/,Congo (AAA),AAA,28,205
+https://buymyweedonline.ca/product/cotton-candy-aaaa/,Cotton Candy (AAAA),AAAA,3-5,33
+https://buymyweedonline.ca/product/cotton-candy-aaaa/,Cotton Candy (AAAA),AAAA,7,60
+https://buymyweedonline.ca/product/cotton-candy-aaaa/,Cotton Candy (AAAA),AAAA,14,108
+https://buymyweedonline.ca/product/cotton-candy-aaaa/,Cotton Candy (AAAA),AAAA,28,200
 https://buymyweedonline.ca/product/davinci-miqro/,DAVINCI MIQRO,Vaping,,222
-https://buymyweedonline.ca/product/sap-death-bubba-live-resin/,Death Bubba Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/death-rockstar-aaa-2/,Death Rockstar (AAA),AAA,3.5gm,$27
-https://buymyweedonline.ca/product/diamond-og-aaa/,Diamond Og (AAA),AAA,3.5gm,$27
-https://buymyweedonline.ca/product/dlx-deluxe-rolling-papers/,DLX DELUXE ROLLING PAPERS,Rolling papers,,2.25-10
+https://buymyweedonline.ca/product/sap-death-bubba-live-resin/,Death Bubba Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/death-rockstar-aaa-2/,Death Rockstar (AAA),AAA,3-5,27
+https://buymyweedonline.ca/product/death-rockstar-aaa-2/,Death Rockstar (AAA),AAA,7,50
+https://buymyweedonline.ca/product/death-rockstar-aaa-2/,Death Rockstar (AAA),AAA,14,90
+https://buymyweedonline.ca/product/death-rockstar-aaa-2/,Death Rockstar (AAA),AAA,28,180
+https://buymyweedonline.ca/product/diamond-og-aaa/,Diamond Og (AAA),AAA,3-5,27
+https://buymyweedonline.ca/product/diamond-og-aaa/,Diamond Og (AAA),AAA,7,50
+https://buymyweedonline.ca/product/diamond-og-aaa/,Diamond Og (AAA),AAA,14,90
+https://buymyweedonline.ca/product/diamond-og-aaa/,Diamond Og (AAA),AAA,28,180
+https://buymyweedonline.ca/product/dlx-deluxe-rolling-papers/,DLX DELUXE ROLLING PAPERS,Rolling papers,,2.25 - 10
 https://buymyweedonline.ca/product/gummies-mix-and-match-800mg/,Edibles Mix and Match,Edibles,,115
-https://buymyweedonline.ca/product/elements-rolling-papers/,Elements rolling papers,Rolling papers,,2.25-10
+https://buymyweedonline.ca/product/elements-rolling-papers/,Elements rolling papers,Rolling papers,,2.25 - 10
 https://buymyweedonline.ca/product/ez-poseidon-bubbler-kit/,EZ Poseidon Bubbler Kit,Vaping,,150
 https://buymyweedonline.ca/product/ez-sai-kit/,EZ Sai Kit,Vaping,,108
 https://buymyweedonline.ca/product/flip-silver/,Flip Silver,Lighters,,26
 https://buymyweedonline.ca/product/flip-toffee-mix/,Flip Toffee Mix,Lighters,,22
 https://buymyweedonline.ca/product/futurola-king-size-rollers/,Futurola King Size Rollers,Rolling papers,,35
 https://buymyweedonline.ca/product/gavel-quartz-nail-18mm/,Gavel Quartz Nail 18mm,Tools + Attachments,,30
-https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,28gm,$185
-https://buymyweedonline.ca/product/top-shelf-concentrates-god-berry-live-resin/,God Berry Live Resin – Top Shelf,Live Resin,,65
+https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,7,54
+https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,14,108
+https://buymyweedonline.ca/product/gelato-aaa/,Gelato (AAA),AAA,28,205
+https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,3-5,24
+https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,7,47
+https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,14,94
+https://buymyweedonline.ca/product/girl-scout-cookies-aa/,Girl Scout Cookies (AA),AA,28,185
+https://buymyweedonline.ca/product/top-shelf-concentrates-god-berry-live-resin/,God Berry Live Resin â€“ Top Shelf,Live Resin,,65
 https://buymyweedonline.ca/product/top-shelf-god-bud-live-resin/,God Bud Live-Resin -TOP SHELF,Live Resin,,65
-https://buymyweedonline.ca/product/gods-green-crack-aaa/,God’s Green Crack (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/gods-green-crack-aaa/,God’s Green Crack (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/gods-green-crack-aaa/,God’s Green Crack (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/gods-green-crack-aaa/,God’s Green Crack (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/ggc-aaaaa/,God’s Green Crack (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/ggc-aaaaa/,God’s Green Crack (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/ggc-aaaaa/,God’s Green Crack (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/ggc-aaaaa/,God’s Green Crack (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/gold-easy-grinder/,Gold – Easy Grinder,Grinders,,65
-https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,3.5gm,$38
-https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,7gm,$74
-https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,14gm,$135
-https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,28gm,$234
-https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,28gm,$205
+https://buymyweedonline.ca/product/gods-green-crack-aaa/,Godâ€™s Green Crack (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/gods-green-crack-aaa/,Godâ€™s Green Crack (AAA),AAA,7,54
+https://buymyweedonline.ca/product/gods-green-crack-aaa/,Godâ€™s Green Crack (AAA),AAA,14,108
+https://buymyweedonline.ca/product/gods-green-crack-aaa/,Godâ€™s Green Crack (AAA),AAA,28,205
+https://buymyweedonline.ca/product/ggc-aaaaa/,Godâ€™s Green Crack (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/ggc-aaaaa/,Godâ€™s Green Crack (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/ggc-aaaaa/,Godâ€™s Green Crack (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/ggc-aaaaa/,Godâ€™s Green Crack (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/gold-easy-grinder/,Gold â€“ Easy Grinder,Grinders,,65
+https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,3-5,38
+https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,7,74
+https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,14,135
+https://buymyweedonline.ca/product/gorilla-bomb-aaaaa/,Gorilla Bomb (AAAAA),AAAAA,28,234
+https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,28,205
+https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,14,108
+https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,7,54
+https://buymyweedonline.ca/product/gorilla-glue-aaa/,Gorilla Glue #4 (AAA),AAA,3-5,28
 https://buymyweedonline.ca/product/top-shelf-grand-daddy-confidential-live-resin/,Grand Daddy Confidential Live-Resin -TOP SHELF,Live Resin,,65
-https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,28gm,$185
-https://buymyweedonline.ca/product/grape-god-aaa/,Grape God (AAA),AAA,3.5gm,$28
+https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,7,47
+https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,14,94
+https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,28,185
+https://buymyweedonline.ca/product/grand-daddy-purple-aa/,Grand Daddy Purple (AA),AA,3-5,24
+https://buymyweedonline.ca/product/grape-god-aaa/,Grape God (AAA),AAA,28,205
+https://buymyweedonline.ca/product/grape-god-aaa/,Grape God (AAA),AAA,14,108
+https://buymyweedonline.ca/product/grape-god-aaa/,Grape God (AAA),AAA,7,54
+https://buymyweedonline.ca/product/grape-god-aaa/,Grape God (AAA),AAA,3-5,28
 https://buymyweedonline.ca/product/hash-mix-and-match-14g/,Hash Mix and Match (14G),Hash,,235
-https://buymyweedonline.ca/product/hawaiian-skunk-rolling-papers/,Hawaiian Skunk Rolling papers,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/pure-reserve-haze-premium-live-resin/,Haze Premium Live Resin – Pure Reserve,Live Resin,
+https://buymyweedonline.ca/product/hawaiian-skunk-rolling-papers/,Hawaiian Skunk Rolling papers,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/pure-reserve-haze-premium-live-resin/,Haze Premium Live Resin â€“ Pure Reserve,Live Resin,,65
 https://buymyweedonline.ca/product/herbal-spiced-healing-balm/,Herbal Spiced Healing Balm,Personal Care,,38
-https://buymyweedonline.ca/product/herbva-nokiva-portable-vaporizer/,HERBVA NOKIVA – Portable Vaporizer,Vaping,,75
+https://buymyweedonline.ca/product/herbva-nokiva-portable-vaporizer/,HERBVA NOKIVA â€“ Portable Vaporizer,Vaping,,75
 https://buymyweedonline.ca/product/herbva-viva/,Herbva Viva,Vaping,,75
-https://buymyweedonline.ca/product/hero-ligher-gray-or-silver/,Hero Ligher – Gray or Silver,Lighters,,30
-https://buymyweedonline.ca/product/honey-banana-aaaa/,Honey Banana (AAAA),AAAA,
+https://buymyweedonline.ca/product/hero-ligher-gray-or-silver/,Hero Ligher â€“ Gray or Silver,Lighters,,30
+https://buymyweedonline.ca/product/honey-banana-aaaa/,Honey Banana (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/honey-banana-aaaa/,Honey Banana (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/honey-banana-aaaa/,Honey Banana (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/honey-banana-aaaa/,Honey Banana (AAAA),AAAA,28,225
 https://buymyweedonline.ca/product/honeycomb-gray/,Honeycomb Gray,Lighters,,22
 https://buymyweedonline.ca/product/hybrid-28-kingsize-cannabisjoints/,Hybrid 28 Kingsize CANNABISJoints,Balanced Hybrids,,170
-https://buymyweedonline.ca/product/ifog-vortex-vape-pen/,iFog Vortex Vape Pen,Vaping,,20-89.95
+https://buymyweedonline.ca/product/ifog-vortex-vape-pen/,iFog Vortex Vape Pen,Vaping,,20 - 89.95
 https://buymyweedonline.ca/product/indica-28-kingsize-cannabisjoints/,Indica 28 Kingsize CANNABISJoints,Indica,,170
-https://buymyweedonline.ca/product/indica-potjus-extracts-htfse-high-terpene-full-spectrum-cannabinoid/,Indica- POTJUS EXTRACTS – HTFSE,Live Resin,,60
-https://buymyweedonline.ca/product/the-forgiving-botanist-infused-lip-balms/,Infused Lip Balms – The Forgiving Botanist,variation,,12
+https://buymyweedonline.ca/product/indica-potjus-extracts-htfse-high-terpene-full-spectrum-cannabinoid/,Indica- POTJUS EXTRACTS â€“ HTFSE,Live Resin,,60
+https://buymyweedonline.ca/product/the-forgiving-botanist-infused-lip-balms/,Infused Lip Balms â€“ The Forgiving Botanist,variation,,12
 https://buymyweedonline.ca/product/jinlun-silver-lighter/,Jinlun Silver Lighter,Lighters,,19
 https://buymyweedonline.ca/product/juicy-hemp-wraps/,Juicy Hemp Wraps ( new flavour!),Rolling papers,,1.95
 https://buymyweedonline.ca/product/juicy-jay-maple-syrup-rolling-paper/,Juicy Jay Maple Syrup Rolling paper,Rolling papers,,2.45
-https://buymyweedonline.ca/product/juicy-jays-green-trip-mentholicious/,Juicy Jay’s Green Trip Mentholicious,Rolling papers,,3.25-12
-https://buymyweedonline.ca/product/juicy-jays-super-fine-sticky-candy/,Juicy Jay’s Super Fine Sticky Candy,Rolling papers,,2.45-11
+https://buymyweedonline.ca/product/juicy-jays-green-trip-mentholicious/,Juicy Jayâ€™s Green Trip Mentholicious,Rolling papers,,3.25 - 12
+https://buymyweedonline.ca/product/juicy-jays-super-fine-sticky-candy/,Juicy Jayâ€™s Super Fine Sticky Candy,Rolling papers,,2.45 - 11
 https://buymyweedonline.ca/product/juicy-jays-flavoured-rolling-papers/,Juicy Jays (Flavoured Rolling Papers),Rolling papers,,2.45
-https://buymyweedonline.ca/product/justin-beaver-1-1-4-rolling-paper-with-tips/,Justin Beaver 1 1/4 Rolling Paper with Tips,Rolling papers,,3.50-17
-https://buymyweedonline.ca/product/top-shelf-concentrate-k1-live-resin/,K1 Live Resin – Top Shelf,Live Resin,,65
-https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,28gm,$185
-https://buymyweedonline.ca/product/sap-karma-live-resin/,Karma Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/king-size-pre-rolls-7gram-triple-7/,King Size Pre-Rolls (7gram) – Triple 7,Indica,,45
-https://buymyweedonline.ca/product/kings-kush-aaaa/,King’s Kush (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/kings-kush-aaaa/,King’s Kush (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/kings-kush-aaaa/,King’s Kush (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/kings-kush-aaaa/,King’s Kush (AAAA),AAAA,28gm,$225
+https://buymyweedonline.ca/product/justin-beaver-1-1-4-rolling-paper-with-tips/,Justin Beaver 1 1/4 Rolling Paper with Tips,Rolling papers,,3.50 - 17
+https://buymyweedonline.ca/product/top-shelf-concentrate-k1-live-resin/,K1 Live Resin â€“ Top Shelf,Live Resin,,65
+https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,3-5,24
+https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,7,47
+https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,14,94
+https://buymyweedonline.ca/product/kandy-kush-aa/,Kandy Kush (AA),AA,28,185
+https://buymyweedonline.ca/product/sap-karma-live-resin/,Karma Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/king-size-pre-rolls-7gram-triple-7/,King Size Pre-Rolls (7gram) â€“ Triple 7,Indica,,45
+https://buymyweedonline.ca/product/kings-kush-aaaa/,Kingâ€™s Kush (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/kings-kush-aaaa/,Kingâ€™s Kush (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/kings-kush-aaaa/,Kingâ€™s Kush (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/kings-kush-aaaa/,Kingâ€™s Kush (AAAA),AAAA,28,225
 https://buymyweedonline.ca/product/kingpin-hemp-wraps/,Kingpin Hemp Wraps,Rolling papers,,1.80
-https://buymyweedonline.ca/product/kushberry-aaa/,Kushberry (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,1gm,$18
-https://buymyweedonline.ca/product/laid-back-moose-1-1-4-rolling-paper-with-tips/,Laid-Back Moose 1 1/4 Rolling Paper with Tips,Rolling papers,,3.50-17
-https://buymyweedonline.ca/product/lativa-dry-herb-vaporizer/,Lativa Dry Herb Vaporizer,Accessories,,70-75
-https://buymyweedonline.ca/product/lavender-bath-bomb-weeshy-washy/,Lavender Bath Bomb – Weeshy Washy,variation,,17
-https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,3.5gm,$33
-https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,7gm,$60
-https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,14gm,$108
-https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,28gm,$200
+https://buymyweedonline.ca/product/kushberry-aaa/,Kushberry (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/kushberry-aaa/,Kushberry (AAA),AAA,7,54
+https://buymyweedonline.ca/product/kushberry-aaa/,Kushberry (AAA),AAA,14,108
+https://buymyweedonline.ca/product/kushberry-aaa/,Kushberry (AAA),AAA,28,205
+https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,14,235
+https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,28,450
+https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,3-5,63
+https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,7,120
+https://buymyweedonline.ca/product/labanese-camel-hash-top-shelf/,Labanese Camel Hash (AAAA),Hash,1,18
+https://buymyweedonline.ca/product/laid-back-moose-1-1-4-rolling-paper-with-tips/,Laid-Back Moose 1 1/4 Rolling Paper with Tips,Rolling papers,,3.50 - 17
+https://buymyweedonline.ca/product/lativa-dry-herb-vaporizer/,Lativa Dry Herb Vaporizer,Accessories,,70 - 75
+https://buymyweedonline.ca/product/lavender-bath-bomb-weeshy-washy/,Lavender Bath BombÂ â€“ Weeshy Washy,variation,,17
+https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,7,54
+https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,14,108
+https://buymyweedonline.ca/product/lemon-kush-aaa/,Lemon Kush (AAA),AAA,28,205
+https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,3-5,33
+https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,7,60
+https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,14,108
+https://buymyweedonline.ca/product/lemonder-aaaa/,Lemonder (AAAA),AAAA,28,200
 https://buymyweedonline.ca/product/linx-ares-honey-straw-vaporizer/,LINX ARES HONEY STRAW Vaporizer,Vaping,,126
 https://buymyweedonline.ca/product/linx-blaze/,LINX BLAZE,Vaping,,185
 https://buymyweedonline.ca/product/linx-ember/,LINX Ember,Vaping,,75
 https://buymyweedonline.ca/product/linx-gaia-loose-leaf-vaporizer/,LINX GAIA Loose Leaf Vaporizer,Vaping,,209
-https://buymyweedonline.ca/product/live-resin-voyage-extracts/,Live-Resin – Voyage Extracts,Live Resin,,50
-https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,1gm,$20
-https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/mango-sativa-jelly-bombs-twisted-extract/,Mango SATIVA JELLY BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,1gm,$18
-https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,1gm,$18
+https://buymyweedonline.ca/product/live-resin-voyage-extracts/,Live-Resin â€“ Voyage Extracts,Live Resin,,50
+https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/lsd-hash-aaaaa/,LSD Hash (AAAAA),Hash,28,475
+https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/mandarin-kush-aaaaa/,Mandarin Kush (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/mango-sativa-jelly-bombs-twisted-extract/,Mango SATIVA JELLY BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,1,18
+https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,3-5,63
+https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,7,120
+https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,14,235
+https://buymyweedonline.ca/product/maserati-hash-aaaa/,Maserati Hash (AAAA),Hash,28,450
+https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,14,235
+https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,28,450
+https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,1,18
+https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,3-5,63
+https://buymyweedonline.ca/product/mercedez-lebanon-hash/,Mercedez Lebanon Hash (AAAA),Hash,7,120
 https://buymyweedonline.ca/product/micro-jet-flame-torch-lighter/,Micro Jet Flame Torch Lighter,Lighters,,30
-https://buymyweedonline.ca/product/sap-mimosa-live-resin/,Mimosa Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,3.5gm,$33
-https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,7gm,$60
-https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,14gm,$108
-https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,28gm,$200
-https://buymyweedonline.ca/product/ocb-organico/,OCB Organico 1¼,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/ocb-premium/,OCB Premium 1¼,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/ocb-premium-with-filter/,OCB Premium 1¼ with Filter,Rolling papers,,3.25-14
-https://buymyweedonline.ca/product/ocb-premium-gold-kingsize-slim-rolling-papers/,OCB Premium Gold Kingsize Slim Rolling Papers,Rolling papers,,2.70-10.90
-https://buymyweedonline.ca/product/ocb-premium-slim-king-size-32-pack/,OCB Premium Slim King Size 32/pack,Rolling papers,,2.70-10.90
-https://buymyweedonline.ca/product/ocb-ultimate-1%c2%bc/,OCB Ultimate 1¼,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/ocb-unbleached-1-1-4-size/,OCB Unbleached 1-1/4 Size,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/orange-sativa-11-jelly-bombs-twisted-extracts/,Orange SATIVA 1:1 JELLY BOMBS – Twisted Extracts,Edibles,,13
-https://buymyweedonline.ca/product/orange-sativa-jelly-bombs-twisted-extract/,Orange SATIVA JELLY BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/organic-natural-hemp-wick-3-3-1m-2-pack/,Organic Natural Hemp Wick 3.3’/1m- 2/pack,Tools + Attachments,,2-7
+https://buymyweedonline.ca/product/sap-mimosa-live-resin/,Mimosa Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/mk-ultra-aaaa/,MK Ultra (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,7,54
+https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,14,108
+https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,28,205
+https://buymyweedonline.ca/product/northern-lights-aaa/,Northern Lights (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,28,205
+https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,14,108
+https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,7,54
+https://buymyweedonline.ca/product/nuken-aaa/,Nuken (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,28,200
+https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,14,108
+https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,7,60
+https://buymyweedonline.ca/product/nuken-aaaa/,Nuken (AAAA),AAAA,3-5,33
+https://buymyweedonline.ca/product/ocb-organico/,OCB Organico 1Â¼,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/ocb-premium/,OCB Premium 1Â¼,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/ocb-premium-with-filter/,OCB Premium 1Â¼ with Filter,Rolling papers,,3.25 - 14
+https://buymyweedonline.ca/product/ocb-premium-gold-kingsize-slim-rolling-papers/,OCB Premium Gold Kingsize Slim Rolling Papers,Rolling papers,,2.70 - 10.90
+https://buymyweedonline.ca/product/ocb-premium-slim-king-size-32-pack/,OCB Premium Slim King Size 32/pack,Rolling papers,,2.70 - 10.90
+https://buymyweedonline.ca/product/ocb-ultimate-1%c2%bc/,OCB Ultimate 1Â¼,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/ocb-unbleached-1-1-4-size/,OCB Unbleached 1-1/4 Size,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/orange-sativa-11-jelly-bombs-twisted-extracts/,Orange SATIVA 1:1 JELLY BOMBS â€“ Twisted Extracts,Edibles,,13
+https://buymyweedonline.ca/product/orange-sativa-jelly-bombs-twisted-extract/,Orange SATIVA JELLY BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/organic-natural-hemp-wick-3-3-1m-2-pack/,Organic Natural Hemp Wick 3.3â€™/1m- 2/pack,Tools + Attachments,,2 - 7
 https://buymyweedonline.ca/product/pencil-dabber/,Pencil Dabber,Tools + Attachments,,11.50
-https://buymyweedonline.ca/product/peppermint-bath-bomb-weeshy-washy/,Peppermint Bath Bomb – Weeshy Washy,variation,,17
-https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,1gm,$18
-https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,3.5gm,$33
-https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,7gm,$60
-https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,14gm,$108
-https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,28gm,$200
-https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/pipe-cat-face/,Pipe – Cat Face,Pipes,,22
-https://buymyweedonline.ca/product/pipe-churchwarden/,Pipe – Churchwarden,Pipes,,14.99
+https://buymyweedonline.ca/product/peppermint-bath-bomb-weeshy-washy/,Peppermint Bath BombÂ â€“ Weeshy Washy,variation,,17
+https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,1,18
+https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,3-5,63
+https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,7,120
+https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,14,235
+https://buymyweedonline.ca/product/philosophers-stone-hash-aaaa/,Philosophers Stone Hash (AAAA),Hash,28,450
+https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,28,200
+https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,3-5,33
+https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,7,60
+https://buymyweedonline.ca/product/pink-bubba-aaaa2/,Pink Bubba (AAAA),AAAA,14,108
+https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/pink-death-aaaa/,Pink Death (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,28,205
+https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,14,108
+https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,7,54
+https://buymyweedonline.ca/product/pink-kush-aaa/,Pink Kush (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/pipe-cat-face/,Pipe â€“ Cat Face,Pipes,,22
+https://buymyweedonline.ca/product/pipe-churchwarden/,Pipe â€“ Churchwarden,Pipes,,14.99
 https://buymyweedonline.ca/product/pipe-diamond-silicone-pipe/,Pipe- Diamond silicone Pipe,Pipes,,22
 https://buymyweedonline.ca/product/pipe-roadster-silicone-pipe/,Pipe- Roadster Silicone Pipe,Pipes,,22
-https://buymyweedonline.ca/product/pipe-red-and-black-silicone-pipe/,Pipe- Toker – Red and Black Silicone Pipe,Pipes,,21.25
-https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,3.5gm,$38
-https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,7gm,$74
-https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,14gm,$135
-https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,28gm,$234
+https://buymyweedonline.ca/product/pipe-red-and-black-silicone-pipe/,Pipe- Toker â€“ Red and Black Silicone Pipe,Pipes,,21.25
+https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,3-5,38
+https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,7,74
+https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,14,135
+https://buymyweedonline.ca/product/platinum-blackberry-aaaaa/,Platinum Blackberry (AAAAA),AAAAA,28,234
 https://buymyweedonline.ca/product/pre-rolls-0-5g/,Pre Rolls-10 Regular,Indica,,33
 https://buymyweedonline.ca/product/primo-blue/,Primo Blue,Lighters,,30
-https://buymyweedonline.ca/product/prism-oil-vaporizer-kandypens/,Prism OIL VAPORIZER – Kandypens,Accessories,,129.99
+https://buymyweedonline.ca/product/prism-oil-vaporizer-kandypens/,Prism OIL VAPORIZER â€“ Kandypens,Accessories,,129.99
 https://buymyweedonline.ca/product/puff-pro-2/,Puff Pro 2,Vaping,,125
-https://buymyweedonline.ca/product/pure-hemp-classic-1-1-4/,Pure Hemp Classic 1 1/4,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/raspberry-indica-11-jelly-bombs-twisted-extracts/,Raspberry INDICA 1:1 JELLY BOMBS – Twisted Extracts,Edibles,,13
-https://buymyweedonline.ca/product/raspberry-indica-zzz-bombs-twisted-extract/,Raspberry INDICA ZZZ BOMBS – Twisted Extract,Edibles,,12
-https://buymyweedonline.ca/product/raw-black/,RAW Black Classic 1 1/4,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/raw-classic-1-1-4/,RAW Classic 1 1/4,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/raw-natural-single-wide-double-window/,Raw Classic Single Wide Rolling Papers,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/raw-organic-hemp/,RAW Organic Hemp,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/raw-organic-hemp-king-size-slim/,RAW Organic Hemp King Size Slim,Uncategorized,,2.80-12
-https://buymyweedonline.ca/product/raw-organic-king-size-slim/,RAW Organic King Size Slim,Rolling papers,,2.80-12
-https://buymyweedonline.ca/product/raw-original-rolling-paper-tips/,RAW Original Rolling Paper Tips,Rolling papers,,1.50-4.99
+https://buymyweedonline.ca/product/pure-hemp-classic-1-1-4/,Pure Hemp Classic 1 1/4,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/raspberry-indica-11-jelly-bombs-twisted-extracts/,Raspberry INDICA 1:1 JELLY BOMBS â€“ Twisted Extracts,Edibles,,13
+https://buymyweedonline.ca/product/raspberry-indica-zzz-bombs-twisted-extract/,Raspberry INDICA ZZZ BOMBS â€“ Twisted Extract,Edibles,,12
+https://buymyweedonline.ca/product/raw-black/,RAW Black Classic 1 1/4,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/raw-classic-1-1-4/,RAW Classic 1 1/4,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/raw-natural-single-wide-double-window/,Raw Classic Single Wide Rolling Papers,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/raw-organic-hemp/,RAW Organic Hemp,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/raw-organic-hemp-king-size-slim/,RAW Organic Hemp King Size Slim,Uncategorized,,2.80 - 12
+https://buymyweedonline.ca/product/raw-organic-king-size-slim/,RAW Organic King Size Slim,Rolling papers,,2.80 - 12
+https://buymyweedonline.ca/product/raw-original-rolling-paper-tips/,RAW Original Rolling Paper Tips,Rolling papers,,1.50 - 4.99
 https://buymyweedonline.ca/product/raw-pre-rolled-tips/,Raw Pre-rolled Tips,Rolling papers,,2.75
 https://buymyweedonline.ca/product/red-ranger/,Red Ranger,Lighters,,22
 https://buymyweedonline.ca/product/ripple-silver/,Ripple Silver,Lighters,,22
-https://buymyweedonline.ca/product/rocket-rolling-papers/,Rocket Rolling Papers 1 1/4,Rolling papers,,2.50-11.25
-https://buymyweedonline.ca/product/rockstar-premium-rosin-pure-reserve/,Rockstar Premium Rosin – Pure Reserve,Live Resin,
-https://buymyweedonline.ca/product/rso-41-sativa-oil-5ml/,RSO | 4:1 Sativa Oil – 5ml,Oil,,110
-https://buymyweedonline.ca/product/rso-cbd-oil/,RSO | CBD Oil,Oil,,80-150
-https://buymyweedonline.ca/product/rso-pink-cherry-punch-oil-5ml/,RSO | Pink Cherry Punch Oil – 5ml,Oil,,110
-https://buymyweedonline.ca/product/rso-pink-kush-oil-5ml/,RSO | Pink Kush Oil – 5ml,Oil,,110
-https://buymyweedonline.ca/product/rso-romulan-oil-5ml/,RSO | Romulan Oil – 5ml,Oil,,110
-https://buymyweedonline.ca/product/rso-tuna-kush-oil-5ml/,RSO | Tuna Kush Oil – 5ml,Oil,,110
-https://buymyweedonline.ca/product/pure-reserve-sasquatch-sap-premium-live-resin/,Sasquatch Sap Premium Live Resin – Pure Reserve,Live Resin,
+https://buymyweedonline.ca/product/rocket-rolling-papers/,Rocket Rolling Papers 1 1/4,Rolling papers,,2.50 - 11.25
+https://buymyweedonline.ca/product/rockstar-premium-rosin-pure-reserve/,Rockstar Premium Rosin â€“ Pure Reserve,Live Resin,,79
+https://buymyweedonline.ca/product/rso-41-sativa-oil-5ml/,RSO | 4:1 Sativa Oil â€“ 5ml,Oil,,110
+https://buymyweedonline.ca/product/rso-cbd-oil/,RSO | CBD Oil,Oil,,80 - 150
+https://buymyweedonline.ca/product/rso-pink-cherry-punch-oil-5ml/,RSO | Pink Cherry Punch Oil â€“ 5ml,Oil,,110
+https://buymyweedonline.ca/product/rso-pink-kush-oil-5ml/,RSO | Pink Kush Oil â€“ 5ml,Oil,,110
+https://buymyweedonline.ca/product/rso-romulan-oil-5ml/,RSO | Romulan Oil â€“ 5ml,Oil,,110
+https://buymyweedonline.ca/product/rso-tuna-kush-oil-5ml/,RSO | Tuna Kush Oil â€“ 5ml,Oil,,110
+https://buymyweedonline.ca/product/pure-reserve-sasquatch-sap-premium-live-resin/,Sasquatch Sap Premium Live Resin â€“ Pure Reserve,Live Resin,,65
 https://buymyweedonline.ca/product/sativa-28-kingsize-cannabisjoints/,Sativa 28 Kingsize CANNABISJoints,Sativa,,170
-https://buymyweedonline.ca/product/top-shelf-concentrate-sensi-jack-live-resin/,Sensi Jack Live Resin – Top Shelf,Live Resin,,65
+https://buymyweedonline.ca/product/top-shelf-concentrate-sensi-jack-live-resin/,Sensi Jack Live Resin â€“ Top Shelf,Live Resin,,65
 https://buymyweedonline.ca/product/shatter-budder-mix-and-match-14g/,Shatter/Budder Mix and Match (14G),Shatter,,377
 https://buymyweedonline.ca/product/shatter-budder-mix-and-match-7g/,Shatter/Budder Mix and Match (7G),Shatter,,208
-https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/silver-easy-grinder/,Silver – Easy Grinder,Grinders,,65
-https://buymyweedonline.ca/product/skunkalicious-1-1-4-sweet/,SKUNKALICIOUS 1 1/4 – SWEET,Rolling papers,,2.25-10
-https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,28gm,$185
-https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,1gm,$20
-https://buymyweedonline.ca/product/sugar-coat-pineapple-rolling-papers/,Sugar Coat – Pineapple Rolling Papers,Rolling papers,,2.35-11
-https://buymyweedonline.ca/product/sugar-coat-watermelon-rolling-papers/,Sugar Coat – Watermelon Rolling Papers,Rolling papers,,2.35-11
-https://buymyweedonline.ca/product/superior-sun-rock/,Sun Rock – Superior,Cannabis,
-https://buymyweedonline.ca/product/sap-tahoe-og-live-resin/,Tahoe Og Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/tea-tree-bath-bomb-weeshy-washy/,Tea Tree Bath Bomb – Weeshy Washy,variation,,17
+https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/sherbet-aaaa/,Sherbet (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/silver-easy-grinder/,Silver â€“ Easy Grinder,Grinders,,65
+https://buymyweedonline.ca/product/skunkalicious-1-1-4-sweet/,SKUNKALICIOUS 1 1/4 â€“ SWEET,Rolling papers,,2.25 - 10
+https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/snow-white-aaaa/,Snow White (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,7,54
+https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,14,108
+https://buymyweedonline.ca/product/sour-diesel-aaa/,Sour Diesel (AAA),AAA,28,205
+https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,28,185
+https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,14,94
+https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,7,47
+https://buymyweedonline.ca/product/space-queen-aa/,Space Queen (AA),AA,3-5,24
+https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/strawberry-banana-hash-aaaaa/,Strawberry Banana Hash (AAAAA),Hash,28,475
+https://buymyweedonline.ca/product/sugar-coat-pineapple-rolling-papers/,Sugar Coat â€“ Pineapple Rolling Papers,Rolling papers,,2.35 - 11
+https://buymyweedonline.ca/product/sugar-coat-watermelon-rolling-papers/,Sugar Coat â€“ Watermelon Rolling Papers,Rolling papers,,2.35 - 11
+https://buymyweedonline.ca/product/superior-sun-rock/,Sun Rock â€“ Superior,Cannabis,1,45
+https://buymyweedonline.ca/product/superior-sun-rock/,Sun Rock â€“ Superior,Cannabis,3-5,150
+https://buymyweedonline.ca/product/superior-sun-rock/,Sun Rock â€“ Superior,Cannabis,7,280
+https://buymyweedonline.ca/product/sap-tahoe-og-live-resin/,Tahoe Og Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/tea-tree-bath-bomb-weeshy-washy/,Tea Tree Bath BombÂ â€“ Weeshy Washy,variation,,17
 https://buymyweedonline.ca/product/test-product-copy-2/,password-protected,,
 https://buymyweedonline.ca/product/test-product-copy-2-copy/,password-protected,,
 https://buymyweedonline.ca/product/flavoured-thc-distillates/,THC Distillates (flavoured) -Top Shelf,Oil,,50
-https://buymyweedonline.ca/product/releaf-infused-bath-salts-bamboo-teak/,THC Infused Bath Salts Bamboo & Teak – RELEAF,Personal Care,,32
-https://buymyweedonline.ca/product/releaf-infused-bath-salts-honey-tangerine/,THC Infused Bath Salts Honey Tangerine – RELEAF,Personal Care,,32
-https://buymyweedonline.ca/product/releaf-infused-bath-salts-ocean/,THC Infused Bath Salts Ocean Wave – RELEAF,Personal Care,,32
-https://buymyweedonline.ca/product/releaf-infused-bath-salts-sandalwood/,THC Infused Bath Salts Sandalwood – RELEAF,Personal Care,,32
+https://buymyweedonline.ca/product/releaf-infused-bath-salts-bamboo-teak/,THC Infused Bath Salts Bamboo & Teak â€“ RELEAF,Personal Care,,32
+https://buymyweedonline.ca/product/releaf-infused-bath-salts-honey-tangerine/,THC Infused Bath Salts Honey Tangerine â€“ RELEAF,Personal Care,,32
+https://buymyweedonline.ca/product/releaf-infused-bath-salts-ocean/,THC Infused Bath Salts Ocean Wave â€“ RELEAF,Personal Care,,32
+https://buymyweedonline.ca/product/releaf-infused-bath-salts-sandalwood/,THC Infused Bath Salts Sandalwood â€“ RELEAF,Personal Care,,32
 https://buymyweedonline.ca/product/thc-live-diamonds-superior-extract/,THC Live Diamonds- Superior Extract,Hash,,80
-https://buymyweedonline.ca/product/thc-transdermal-patches/,THC Transdermal Patches,Tinctures/Topicals,,45-65
+https://buymyweedonline.ca/product/thc-transdermal-patches/,THC Transdermal Patches,Tinctures/Topicals,,45 - 65
 https://buymyweedonline.ca/product/thunderhead-3-pre-rolled-joints/,THUNDERHEAD 3 Pre-Rolled Joints (White Castle),Indica,,34
 https://buymyweedonline.ca/product/thunderhead-6-pre-rolled-joints/,THUNDERHEAD 6 Pre-Rolled Joints (White Castle),Indica,,65
 https://buymyweedonline.ca/product/titan-iii/,Titan III,Vaping,,79
 https://buymyweedonline.ca/product/titanium-dabber-nail-4-in-1/,Titanium Dabber Nail 4 in 1,Tools + Attachments,,16
 https://buymyweedonline.ca/product/titanium-nail-female-male/,Titanium Nail female/male,Tools + Attachments,,16
 https://buymyweedonline.ca/product/transformer-lighter/,Transformer Lighter,Lighters,,26.99
-https://buymyweedonline.ca/product/sap-triangle-kush-live-resin/,Triangle Kush Live-Resin – SAP,Live Resin,,65
-https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,3.5gm,$24
-https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,7gm,$47
-https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,14gm,$94
-https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,28gm,$185
+https://buymyweedonline.ca/product/sap-triangle-kush-live-resin/,Triangle Kush Live-Resin â€“ SAP,Live Resin,,65
+https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,3-5,24
+https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,7,47
+https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,14,94
+https://buymyweedonline.ca/product/tuna-kush-aa/,Tuna Kush (AA),AA,28,185
 https://buymyweedonline.ca/product/v12-mini-twisty-glass-bubbler-kit/,V12 Mini Twisty Glass Bubbler Kit,Pipes,,30
-https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,28gm,$260
+https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/violator-aaaaa/,Violator (AAAAA),AAAAA,3-5,42
 https://buymyweedonline.ca/product/water-bubbler-attachment-for-herbva-x/,Water Bubbler Attachment for HERBVA X,Vaping,,12
-https://buymyweedonline.ca/product/watermelon-halleys-comet-11-jelly-bombs-twisted-extracts/,Watermelon HALLEY’S COMET 1:1 JELLY BOMBS – Twisted Extracts,Edibles,,13
-https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,3.5gm,$38
-https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,7gm,$74
-https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,14gm,$135
-https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,28gm,$234
-https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,3.5gm,$35
-https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,7gm,$65
-https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,14gm,$125
-https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,28gm,$225
-https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,3.5gm,$28
-https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,7gm,$54
-https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,14gm,$108
-https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,28gm,$205
-https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,3.5gm,$42
-https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,7gm,$82
-https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,14gm,$150
-https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,28gm,$260
-https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,3.5gm,$35
-https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,7gm,$65
-https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,14gm,$125
-https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,28gm,$225
-https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,1gm,$20
+https://buymyweedonline.ca/product/watermelon-halleys-comet-11-jelly-bombs-twisted-extracts/,Watermelon HALLEYâ€™S COMET 1:1 JELLY BOMBS â€“ Twisted Extracts,Edibles,,13
+https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,28,234
+https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,14,135
+https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,7,74
+https://buymyweedonline.ca/product/white-castle-aaaaa/,White Castle (AAAAA),AAAAA,3-5,38
+https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/white-rhino-aaaaa/,White Rhino (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,7,54
+https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,14,108
+https://buymyweedonline.ca/product/white-widow-aaa/,White Widow (AAA),AAA,28,205
+https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,3-5,28
+https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,7,54
+https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,14,108
+https://buymyweedonline.ca/product/wifi-og-aaa/,Wifi OG (AAA),AAA,28,205
+https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,3-5,42
+https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,7,82
+https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,14,150
+https://buymyweedonline.ca/product/xxx-aaaaa/,XXX (AAAAA),AAAAA,28,260
+https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,3-5,35
+https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,7,65
+https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,14,125
+https://buymyweedonline.ca/product/zkittlez-aaaa/,Zkittlez (AAAA),AAAA,28,225
+https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/skittlez-hash-aaaaa/,Zkittlez Hash (AAAAA),Hash,28,475
 https://buymyweedonline.ca/product/zobo-thin-electric/,Zobo Thin Electric,Lighters,,20
-https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder – Top Shelf,Budder/Wax,1gm,$35
-https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder – Top Shelf,Budder/Wax,7gm,$208
-https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder – Top Shelf,Budder/Wax,14gm,$377
-https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder – Top Shelf,Budder/Wax,28gm,$700
-https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,1gm,$20
+https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder â€“ Top Shelf,Budder/Wax,1,35
+https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder â€“ Top Shelf,Budder/Wax,7,208
+https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder â€“ Top Shelf,Budder/Wax,14,377
+https://buymyweedonline.ca/product/zombie-kush-budder-top-shelf/,Zombie Kush Budder â€“ Top Shelf,Budder/Wax,28,700
+https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,1,20
+https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,3-5,67
+https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,7,130
+https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,14,245
+https://buymyweedonline.ca/product/zombie-kush-hash-aaaaa/,Zombie Kush Hash (AAAAA),Hash,28,475

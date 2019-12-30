@@ -1,28 +1,38 @@
 from lxml import html
 
     
-def extract_price(tree):
-    extracted_price = []
-    
-    table_text = tree.xpath('//div[@class="one"]//p')
-    if table_text:
-        table_text = table_text[0].text
-        table_text = table_text.split("\n")
-        for row in table_text:
-            if row == "": #this catches some weirdly formatted tables on the site. I think it just makes sense to return 
-                #empty list and handle them manually
-                return []
-            quantity, price = row.split("=")
-            extracted_price.append((quantity,price))
-        return extracted_price
+def extract_gram_prices(form):    
+    prices = []
+    while True:
+        # the weight/price values could be stored in several attribute names, so each has to be searched
+#         attribute_texts = ['attribute_choose-an-options', 'attribute_choose-an-option', 'attribute_choose-your-option',
+#                           'attribute_choose-options', 'attribute_your-options', 'attribute_pa_choose']
+        attribute_texts = ['attribute_pa_weight']
+        for attribute_text in attribute_texts:
+            start_pos = form.find(attribute_text)
+            # break out of the attribute list search once the correct one has been identified
+            if start_pos > -1:
+                break
+        
+        # quit if no attribute values were found
+        if start_pos == -1:
+            break
+            
+        form = form[start_pos+len(f"{attribute_text}&quot;:&quot;"):]
+        quantity = form[:form.find("&")]
+        form = form[form.find("display_price&quot;:")+len("display_price&quot;:"):]
+        price = form[:form.find(",")]
+        prices.append((quantity, price))
+    return prices
 
-    price_values = tree.xpath('//p[@class="price"]/span[@class="woocommerce-Price-amount amount"]/span')
-    if not price_values:
-        extracted_price.append(("", tree.xpath('//p[@class="price"]/ins/span/span')[0].tail))
-    else:
-        price = "-".join([p.tail for p in price_values]) # 1 price will format as "25". two will format as "25-50"
-        extracted_price.append(("", price))
-    return extracted_price
+
+def get_multipart_form(page_text):
+    start_pos = page_text.find('<form class="variations_form cart')
+    if start_pos == -1:
+        return None
+    end_pos = page_text.find(">", start_pos)
+    multipart_form = page_text[start_pos:end_pos+1]
+    return multipart_form
     
     
 def parse(html_raw):
@@ -32,8 +42,26 @@ def parse(html_raw):
         
     product = {}
     product['name'] = tree.xpath('//h1')[0].text
-    product['prices'] = extract_price(tree)
     product['categories'] = [tree.xpath('//nav[@class="woocommerce-breadcrumb"]/a')[-1].text]
+    
+    product['prices'] = []
+    multipart_form = get_multipart_form(html_raw)
+    if multipart_form:
+        product['prices'] = extract_gram_prices(multipart_form)
+        
+    # either there was no form or gram values weren't found in the form
+    if not product['prices']:
+        price_values = tree.xpath('//p/span[@class="woocommerce-Price-amount amount"]/span') or \
+            tree.xpath('//p/ins/span[@class="woocommerce-Price-amount amount"]/span')
+        
+        if len(price_values) == 0:
+            product['prices'].append(("", None))
+        elif len(price_values) == 1:
+            price = price_values[0].tail
+            product['prices'].append(("",price))
+        elif len(price_values) == 2:
+            price = price_values[0].tail + " - " + price_values[1].tail
+            product['prices'].append(("",price))
     return product
     
     

@@ -1,39 +1,37 @@
 from lxml import html
 
 
-def get_price_block(tree):
-    # may be price block or just general information
-    try:
-        price_block = tree.xpath('//table[@class="shop_attributes"]')[0]
-    except IndexError:
-        return None
-    block_text = str(html.tostring(price_block))
-    if block_text.find("$") > -1:
-        return price_block
-    else:
-        return None
-
-        
-def get_prices(price_block):
+def extract_gram_prices(form):    
     prices = []
-    # this gets convoluted because there can be a table with rows. the cells can be bolded. 
-    # the cells can also have del tags if there's a sale
-    # this could only be clean if i wrote things like, for example, something that checks a tag and also checks 
-    # for a del child's tail
-    # may be worthwhile since the same thing will come up in other stores as well
-    for row in price_block.xpath('./tbody/tr'):
-        quantity = row.xpath('./th')[0].text
-        price = row.xpath('./td')[0].text
-        if not price:
-            if row.xpath('./td/strong'):
-                price = row.xpath('./td/strong')[0].text
-                if not price:
-                    price = row.xpath('./td/strong/del')[0].tail
-        if not price:
-            price = row.xpath('./td/del')[0].tail
-        if quantity and price:
-            prices.append((quantity, price))
+    while True:
+        # the weight/price values could be stored in several attribute names, so each has to be searched
+        attribute_texts = ['attribute_weight', 'attribute_pa_weight', 'attribute_sizes', 'attribute_variations', 
+                           'attribute_strength', 'attribute_concentration']
+        for attribute_text in attribute_texts:
+            start_pos = form.find(attribute_text)
+            # break out of the attribute list search once the correct one has been identified
+            if start_pos > -1:
+                break
+        
+        # quit if no attribute values were found
+        if start_pos == -1:
+            break
+            
+        form = form[start_pos+len(f"{attribute_text}&quot;:&quot;"):]
+        quantity = form[:form.find("&")]
+        form = form[form.find("display_price&quot;:")+len("display_price&quot;:"):]
+        price = form[:form.find(",")]
+        prices.append((quantity, price))
     return prices
+
+    
+def get_multipart_form(page_text):
+    start_pos = page_text.find('<form class="variations_form cart')
+    if start_pos == -1:
+        return None
+    end_pos = page_text.find(">", start_pos)
+    multipart_form = page_text[start_pos:end_pos+1]
+    return multipart_form
 
     
 def parse(html_raw):
@@ -42,15 +40,25 @@ def parse(html_raw):
     product['name'] = tree.xpath('//h1')[0].text.strip()
     product['categories'] = [tree.xpath('//nav[@class="woocommerce-breadcrumb breadcrumbs"]/a')[-1].text]
 
-    price_values = tree.xpath('//p/span[@class="woocommerce-Price-amount amount"]/span') or \
+    product['prices'] = []
+    multipart_form = get_multipart_form(html_raw)
+    if multipart_form:
+        product['prices'] = extract_gram_prices(multipart_form)
+    # either there was no form or gram values weren't found in the form
+    if not product['prices']:
+        price_values = tree.xpath('//p/span[@class="woocommerce-Price-amount amount"]/span') or \
             tree.xpath('//p/ins/span[@class="woocommerce-Price-amount amount"]/span')
-    
-    price_block = get_price_block(tree)
-    if price_block:
-        prices = get_prices(price_block)
-    else:
-        prices = []
-        for price_value in price_values:
-            prices.append(("", price_value.tail))
-    product['prices'] = prices
+        
+        if len(price_values) == 0:
+            product['prices'].append(("", None))
+        elif len(price_values) == 1:
+            price = price_values[0].tail
+            product['prices'].append(("",price))
+        elif len(price_values) == 2:
+            price = price_values[0].tail + " - " + price_values[1].tail
+            product['prices'].append(("",price))
+        else:
+            price = price_values[0].tail
+            product['prices'].append(("",price))
+
     return product

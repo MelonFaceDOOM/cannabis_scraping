@@ -10,18 +10,15 @@ def get_price_block(tree):
     price_desc = tree.xpath('//div[@class="woocommerce-product-details__short-description"]')
     if not price_desc:
         return None
-    titles = price_desc[0].xpath('./p')
-    price_title = None
-    for title in titles:
-        #find the p element with the word "pricing"
-        if str(html.tostring(title)).find("pricing") > -1:
-            price_title=title
     
-    if not price_title:
-        return None
-    
-    price_block = price_title.getnext()
-    return price_block
+    for p in price_desc:
+        titles = p.xpath('./p') or p.xpath('./div/p')
+        for title in titles:
+            #find the p element with the word "pricing"
+            if str(html.tostring(title)).find("pricing") > -1:
+                return title.getnext()
+
+    return None
 
     
 def get_raw_prices(price_block):
