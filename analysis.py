@@ -39,8 +39,25 @@ for site in sites_with_json:
     with open(file_path, 'r') as f:
         df_temp = pd.DataFrame(json.load(f))
         df_temp['site'] = site['root']
-        df = df.append(df_temp)
+        df = df.append(df_temp, sort=True)
 df = df.reset_index(drop=True)
+
+# # classifying new categories
+# raw = df['categories'].tolist()
+# new_categories = list({c for categories in raw for c in categories})
+# category_tuples = []
+# with open("categories_flowers.csv", 'r') as f:
+    # reader = csv.reader(f)
+    # for row in reader:
+        # category_tuples.append(row)
+# old_categories = [c[0] for c in category_tuples]
+# for c in new_categories:
+    # c = c.strip().lower()
+    # if c not in old_categories:
+        # category_tuples.append([c, ''])
+# with open("new_categories.csv", "w", newline="") as f:
+    # writer = csv.writer(f)
+    # writer.writerows(category_tuples)
 
 
 # open csv and pull 3 lists from it
@@ -71,12 +88,14 @@ df_other = df[df['categories'].apply(values_in_reference, reference=categories_o
 df = df.loc[set(df.index) - set(df_other.index)]
 df_ambiguous = df[df['categories'].apply(values_in_reference, reference=categories_ambiguous)]
 
-# identify listings with weighted prices (i.e. this should include flowers and exclude pre-rolls)
-def has_weighted_prices(prices):
-    for element in prices:
-        if len(element) < 2:
-            continue
-        if element[0] and element[1]:
+# df_flower.to_csv("flower.csv")
+# df_other.to_csv("other.csv")
+# df_ambiguous.to_csv("ambiguous.csv")
+
+def values_in_reference(values, reference):
+    # make sure case matches for values and reference
+    for v in values:
+        if v in reference:
             return True
     return False
 
@@ -107,7 +126,7 @@ def clean_weight(text):
     
     # remove anything in parentheses
     text = re.sub('\(.+?\)', '', text)
-    # remove hyphen such as 7-grams
+    # remove hyphen such as 7-grams (but not 3-5 grams, where the hyphen should be a dot)
     text = re.sub('(\d)\-([A-z])', '\g<1> \g<2>', text)
     
     special_values = {'eighth': '0.125 ounce', 'quarter': '0.25 ounce', 'half': '0.5 ounce', 'half-o': '0.5 ounce',
