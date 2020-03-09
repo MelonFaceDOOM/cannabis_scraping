@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b59af81-4223-445e-a770-8e0fb14efab2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleaning/flower_cleaning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOM List - CanadianMOM.info.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ambiguous.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories_flowers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories_flowers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flower.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/master_parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mom_google_results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mom_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/no_weighted_prices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppts/scraping summary.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_summary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bcbud.store/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bcbud.store/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bcbud.store/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bcbud.store/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/budexpressnow.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/budexpressnow.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/budexpressnow.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/budexpressnow.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bulkweedinbox.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bulkweedinbox.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bulkweedinbox.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/bulkweedinbox.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/buymyweedonline.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/buymyweedonline.ca/parse_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/buymyweedonline.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/buymyweedonline.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/buymyweedonline.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/cheebas.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/cheebas.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/cheebas.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/cheebas.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/deliverymeds.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/deliverymeds.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/deliverymeds.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/deliverymeds.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/ganjagrams.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/ganjagrams.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/ganjagrams.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/ganjagrams.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greensociety.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greensociety.ca/parse_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greensociety.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greensociety.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greensociety.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greenz.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greenz.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greenz.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/greenz.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbaldispatch.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbaldispatch.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbaldispatch.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbaldispatch.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbapproach.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbapproach.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbapproach.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/herbapproach.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/jjmeds.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/jjmeds.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/jjmeds.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/jjmeds.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/kingtuts.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/kingtuts.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/kingtuts.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/kingtuts.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/shamrockcannabis.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/shamrockcannabis.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/shamrockcannabis.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/shamrockcannabis.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/simplybudz.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/simplybudz.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/simplybudz.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/simplybudz.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/speedgreens.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/speedgreens.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/speedgreens.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/speedgreens.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/stashclub.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thechrono.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thechrono.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thechrono.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thechrono.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegentleherb.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegentleherb.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegentleherb.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegentleherb.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegreenace.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegreenace.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegreenace.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thegreenace.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thehighclub.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thehighclub.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thehighclub.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/thehighclub.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weed-deals.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weed-deals.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weed-deals.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weed-deals.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weedsmart.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weedsmart.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weedsmart.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weedsmart.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weemo.ca/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weemo.ca/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weemo.ca/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/weemo.ca/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/yuyo.com/parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/yuyo.com/parsed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/yuyo.com/parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/yuyo.com/scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/varations_form sample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weighted_prices.csv" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/price_by_quantity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraping/weemo/scrape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraping/bulkweedinbox/scrape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scraping/budexpressnow/scrape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraping/herbapproach/parse.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraping/build_dataframe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="44" column="102" selection-start-line="44" selection-start-column="102" selection-end-line="44" selection-end-column="102" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cleaning/clean_weight_price.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/strain_summary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>price_tuple_to_grams</find>
+      <find>clean_name</find>
+      <find>number</find>
+      <find>site['root']</find>
+      <find>clean_weight</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/master_parse.py" />
+        <option value="$PROJECT_DIR$/scraping/gather_parsed_data.py" />
+        <option value="$PROJECT_DIR$/scraping/master_parse.py" />
+        <option value="$PROJECT_DIR$/cleaning/clean_strain.py" />
+        <option value="$PROJECT_DIR$/cleaning/extract_flower.py" />
+        <option value="$PROJECT_DIR$/cleaning/flower_cleaning.py" />
+        <option value="$PROJECT_DIR$/cleaning/clean_weight_price.py" />
+        <option value="$PROJECT_DIR$/cleaning/categorization.py" />
+        <option value="$PROJECT_DIR$/analysis/price_by_quantity.py" />
+        <option value="$PROJECT_DIR$/analysis/strain_summary.py" />
+        <option value="$PROJECT_DIR$/scraping/build_dataframe.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-99" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="cleaning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="budexpressnow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="bulkweedinbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="greenz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="herbapproach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="kingtuts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="simplybudz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cannabis_scraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cannabis_scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="weemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b59af81-4223-445e-a770-8e0fb14efab2" name="Default Changelist" comment="" />
+      <created>1581344549087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581344549087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26293334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2496" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/analysis/strain_comp.png" />
+    <entry file="file://$PROJECT_DIR$/sites/master_parse.py" />
+    <entry file="file://$PROJECT_DIR$/scraping/gather_parsed_data.py" />
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://$PROJECT_DIR$/site_summary.py" />
+    <entry file="file://$PROJECT_DIR$/Scraping &amp; parsing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strain_comp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/price_by_quality_info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/common_strains.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/master_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleaning/categories_flowers.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misc/misc_pandas_manipulations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misc/file_rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleaning/categorization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleaning/flower_cleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/weeddeals/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/simplybudz/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/herbapproach/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/greenz/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="137" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="137" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/herbaldispatch/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/price_by_quantity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/weemo/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/bulkweedinbox/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/herbapproach/parse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/build_dataframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" column="102" selection-start-line="44" selection-start-column="102" selection-end-line="44" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleaning/clean_weight_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/strain_summary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/budexpressnow/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

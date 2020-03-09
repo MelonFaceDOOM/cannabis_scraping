@@ -1,0 +1,37 @@
+no all-products page; need to find a way to identify and browse their categories
+http://atlanticgreenrush.com/
+https://buddiescanada.ca/
+https://chronickushco.ca/
+https://www.greensociety.ca/
+https://jjmeds.com/
+https://hybridfast.ca/
+https://www.thewholesomemonkey.com/
+https://wccannabis.ca/
+https://bcbudsmedical.com/
+https://blackriver.link/
+https://sweetleafconcentrates.ca/
+https://www.highgardenmarijuana.com/
+https://cannacoastal.ca/
+https://cannaclubco.ca/
+https://cropdrop.ca/
+https://godbud.ca/
+https://goldbuds.com/
+https://healingbuddhashop.ca/
+https://maryjaneexpress.org/
+https://shatterway.com/
+https://supremecollective.ca/
+http://tribaldelights.ca/
+https://pristineextracts.ca/
+
+under maintenance; check again later
+https://cannabisy.ca/
+
+login required; too much work
+https://coastalwildfire.com/
+https://grasschief.com/
+https://skyhighexotics.com/
+https://www.harmonycollective.net/
+https://sweedy.ca/
+
+likely requires selenium
+https://www.budexpressnow.ca

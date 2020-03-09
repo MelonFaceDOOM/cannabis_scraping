@@ -1,0 +1,13 @@
+Average price 5g or less (legal - illegal): 11.35 - 9.17
+Average price for 5-15g (legal - illegal): 10.10 - 8.35
+Average price for 15-28g (legal - illegal): 5.00 - 7.35
+Average price for >28g (legal - illegal): nan - 4.20
+there were 892 illegal listings under 5g
+there were 1024 illegal listings at 5-15g
+there were 1110 illegal listings at 15-28g
+there were 158 illegal listings over 28g
+there were 220 legal listings under 5g
+there were 167 legal listings at 5-15g
+there were 1 legal listings at 15-28g
+there were 0 legal listings over 28g
+There were 29 strains from OCS.ca that were also found on the illegal market
